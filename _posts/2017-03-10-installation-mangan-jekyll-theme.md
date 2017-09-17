@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installation Mangan Jekyll Theme"
+title: "Another name"
 date: 2017-03-10 19:09:40 +0700
 author: username
 sitemap: false
