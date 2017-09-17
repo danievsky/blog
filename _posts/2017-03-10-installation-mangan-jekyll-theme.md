@@ -12,7 +12,7 @@ description: "Installation Mangan Jekyll Theme"
 [![Build Status](https://img.shields.io/travis/dikiaap/mangan/master.svg?style=flat-square)](https://travis-ci.org/dikiaap/mangan)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/dikiaap/mangan)
 
-![image](https://i.imgur.com/dgzKZlq.png)
+![image](https://i2.wp.com/raynoah.com/wp-content/uploads/2015/12/soli-deo-gloria.png)
 
 ## Requirements
 - Ruby >= 2.1
