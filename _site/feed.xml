@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mangan Jekyll Theme</title>
+    <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione nihil, velit odio quia autem quos. Natus itaque sint, nisi fuga dolorum. Iste ea cumque, aliquam dignissimos vitae labore atque minima?</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 16 Sep 2017 20:10:38 -0400</pubDate>
+    <lastBuildDate>Sat, 16 Sep 2017 20:10:38 -0400</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Your Post</title>
+        <description>&lt;!--more--&gt;
+</description>
+        <pubDate>Sat, 16 Sep 2017 20:10:18 -0400</pubDate>
+        <link>http://localhost:4000/post/your-post</link>
+        <guid isPermaLink="true">http://localhost:4000/post/your-post</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Installation Mangan Jekyll Theme</title>
+        <description>&lt;h1 id=&quot;mangan&quot;&gt;Mangan&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/dikiaap/mangan&quot;&gt;&lt;img src=&quot;https://img.shields.io/travis/dikiaap/mangan/master.svg?style=flat-square&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://github.com/dikiaap/mangan&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&quot; alt=&quot;License&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/dgzKZlq.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ruby &amp;gt;= 2.1&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubygems.org/pages/download&quot;&gt;RubyGems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linux, Unix, or Mac OS X&lt;/li&gt;
+  &lt;li&gt;Git&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;install&quot;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt; : Follow this steps until done and your website will be online.&lt;/p&gt;
+
+&lt;p&gt;Fork &lt;a href=&quot;https://github.com/dikiaap/mangan&quot;&gt;&lt;strong&gt;dikiaap/mangan&lt;/strong&gt;&lt;/a&gt;, then rename to &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt; and clone to your computer.&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/username/username.github.io.git
+&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;username.github.io
+sudo gem install jekyll jekyll-paginate jekyll-sitemap
+sudo gem install jemoji octopress
+octopress new post &lt;span class=&quot;s2&quot;&gt;&quot;Your post&quot;&lt;/span&gt;
+jekyll build
+jekyll serve
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If looks good, then deploy to GitHub.&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git add -u
+git add .
+git commit -m &lt;span class=&quot;s2&quot;&gt;&quot;Message&quot;&lt;/span&gt;
+git push
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Visit your website now and custom what you want! :sparkles:&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-in-there&quot;&gt;What’s in there?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Beauty, minify, and little awesome code&lt;/li&gt;
+  &lt;li&gt;Emoji support&lt;/li&gt;
+  &lt;li&gt;Geek theme&lt;/li&gt;
+  &lt;li&gt;Instagram view&lt;/li&gt;
+  &lt;li&gt;Pagination&lt;/li&gt;
+  &lt;li&gt;SEO directly used&lt;/li&gt;
+  &lt;li&gt;Speed up&lt;/li&gt;
+  &lt;li&gt;Unique and secret fun in code and webview&lt;/li&gt;
+  &lt;li&gt;URI&lt;/li&gt;
+  &lt;li&gt;More!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;demo&quot;&gt;Demo&lt;/h2&gt;
+
+&lt;p&gt;See demo &lt;a href=&quot;https://mangan.dikiaap.id&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More features? you can visit &lt;a href=&quot;https://jekyllrb.com/docs/home/&quot;&gt;Jekyll Docs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;MIT © &lt;a href=&quot;https://dikiaap.id&quot;&gt;Diki Ananta&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Mar 2017 07:09:40 -0500</pubDate>
+        <link>http://localhost:4000/post/installation-mangan-jekyll-theme</link>
+        <guid isPermaLink="true">http://localhost:4000/post/installation-mangan-jekyll-theme</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome</title>
+        <description>&lt;p align=&quot;center&quot;&gt;&lt;br /&gt;&lt;img src=&quot;https://i.imgur.com/dgzKZlq.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Mangan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is lead text. Lorem ipsum dolor sit amet, consectetur adipisicing elit. A sunt impedit eveniet quas quisquam, doloribus quibusdam ex, obcaecati enim voluptatibus, aliquid necessitatibus dolor cumque atque aperiam laboriosam id reprehenderit non?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+
+&lt;h1 id=&quot;heading-1&quot;&gt;HEADING 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;HEADING 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;HEADING 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;HEADING 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;HEADING 5&lt;/h5&gt;
+
+&lt;h6 id=&quot;heading-6&quot;&gt;HEADING 6&lt;/h6&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;list&quot;&gt;List&lt;/h2&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;Foo&lt;/li&gt;
+    &lt;li&gt;Bar&lt;/li&gt;
+    &lt;li&gt;Baz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;Foo&lt;/li&gt;
+    &lt;li&gt;Bar&lt;/li&gt;
+    &lt;li&gt;Baz&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ Hello
+$ World
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;link&quot;&gt;Link&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com&quot;&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;GitHub&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:example@domain.com&quot;&gt;&lt;b&gt;example&lt;span class=&quot;big bg&quot;&gt;@&lt;/span&gt;domain.com&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;blockquote&quot;&gt;Blockquote&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet ipsa, placeat voluptas nobis dolorum, fugit similique repellendus odit nesciunt soluta accusamus assumenda omnis minus itaque tempora doloremque sapiente debitis qui!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 04 May 2016 23:02:20 -0400</pubDate>
+        <link>http://localhost:4000/post/welcome</link>
+        <guid isPermaLink="true">http://localhost:4000/post/welcome</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
